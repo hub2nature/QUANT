@@ -5,8 +5,8 @@ This project contains a 3-stage sentiment scoring pipeline for earnings call tra
 ## 1. NLP-based Scoring (`NLP II`)
 - Keyword-based sentiment using Loughran-McDonald dictionary.
 - Backtest Results:
-  - **Long-only:** Return: 4.36x | Long Hit Rate: 59.1%
-  - **Long-short:** Return: 0.98x | Long: 59.1% | Short: 42.0%
+  - **Long-only:** Return: 3.86x | Long Hit Rate: 57.1%
+  - **Long-short:** Return: 0.96x | Long: 57.1% | Short: 42.0%
 
 ## 2. FinBERT-based Scoring
 - Uses `yiyanghkust/finbert-tone` model.
